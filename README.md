@@ -12,7 +12,7 @@ You will need:
 - Low expectations (I made this to do one thing and one thing only. It's very
 simple, and there are almost no settings to change.)
 
-**FAQ**
+**FAQ**  
 Q: Why didn't you bundle youtube-dl and ffmpeg with this program?  
 A: youtube-dl is updated often to continue to be able to work and I was one, not wanting to update this
 ever again, and two, not sure how to do that because I am a coding novice and very new to the world of open-source (At the time of making this, anyway).
